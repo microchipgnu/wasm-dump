@@ -1,5 +1,4 @@
 # wasm-dump
-## Summary of WebAssembly and Related Technologies
 
 1. **[Philip Zucker's WASM Notes](https://www.philipzucker.com/notes/Languages/wasm/)**  
    A detailed exploration of WebAssembly (WASM) and Emscripten, including practical examples, use cases, and technical insights.
