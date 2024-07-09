@@ -26,3 +26,6 @@
 
 9. **[Jakob Meier - WASM Road](https://www.jakobmeier.ch/wasm-road-2)**  
    A personal exploration of WebAssembly's journey and its future potential in various applications.
+
+10. **[WebAssembly: A promising technology that is quietly being sabotaged](https://kerkour.com/webassembly-wasi-preview2)**  
+    WebAssembly's potential is being undermined by increasing complexity, particularly with WASI preview 2's overly intricate Component Model, which deviates from its original goal of simple cross-language function calls.
