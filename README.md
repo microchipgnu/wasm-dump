@@ -1,5 +1,3 @@
-# wasm-dump
-
 1. **[Philip Zucker's WASM Notes](https://www.philipzucker.com/notes/Languages/wasm/)**  
    A detailed exploration of WebAssembly (WASM) and Emscripten, including practical examples, use cases, and technical insights.
 
@@ -29,3 +27,6 @@
 
 10. **[WebAssembly: A promising technology that is quietly being sabotaged](https://kerkour.com/webassembly-wasi-preview2)**  
     WebAssembly's potential is being undermined by increasing complexity, particularly with WASI preview 2's overly intricate Component Model, which deviates from its original goal of simple cross-language function calls.
+
+11. **[Runno GitHub](https://github.com/taybenlor/runno)**  
+    A framework for running code in the browser using WebAssembly, enabling interactive coding environments and enhancing the versatility of web applications.
