@@ -30,3 +30,6 @@
 
 11. **[Runno GitHub](https://github.com/taybenlor/runno)**  
     A framework for running code in the browser using WebAssembly, enabling interactive coding environments and enhancing the versatility of web applications.
+
+12. **[Wasmer GitHub](https://github.com/wasmerio/wasmer)**  
+    A leading WebAssembly runtime for executing WebAssembly modules on the server-side, providing a lightweight and secure environment for running applications written in multiple languages.
